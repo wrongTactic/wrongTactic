@@ -1,9 +1,11 @@
 ### Hello world! 👋
 
+I'm Fabio Tatti and I'm a Data Science and Engineering Graduate at Politecnico di Torino. I will graduate in December with a Master Thesis about Facial Emotion Recognition (FER), called "An emotional coherence analysis with a multimodal Neural Network - A study based on a novel affective dataset of facial expressions ". My studies did focus on Machine Learning, Deep Learning and Big Data Analysis. 
+
 <!--
 **wrongTactic/wrongTactic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I'm Fabio Tatti and I'm a Data Science and Engineering Graduate at Politecnico di Torino. I will graduate in December with a Master Thesis about Facial Emotion Recognition (FER), called "An emotional coherence analysis with a multimodal Neural Network - A study based on a novel affective dataset of facial expressions ". My studies did focus on Machine Learning, Deep Learning and Big Data Analysis. 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
