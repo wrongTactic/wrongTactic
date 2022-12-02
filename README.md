@@ -16,17 +16,17 @@ I'm Fabio Tatti and I'm a Data Science and Engineering Graduate at Politecnico d
 - [Adult Income Binary Classification](https://github.com/wrongTactic/MML---Adult-Income-Dataset)
 
 📢**Contact**
--[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabiotatti/)
--`fbtattix@gmail.com`
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabiotatti/)
+- `fbtattix@gmail.com`
 
 🗣️**About me**
-💻 I love tech 
-🎨 I love even more tech applied to art
-🤯 I extremely love tech applied to visual art
-🎸 Guitar player
-🧗 Climber
-📖 Hungry reader of any genre
-🎛️ Volunteering and working as sound engineer since 2016
+- 💻 I love tech 
+- 🎨 I love even more tech applied to art
+- 🤯 I extremely love tech applied to visual art
+- 🎸 Guitar player
+- 🧗 Climber
+- 📖 Hungry reader of any genre
+- 🎛️ Volunteering and working as sound engineer since 2016
 
 <!--
 **wrongTactic/wrongTactic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
