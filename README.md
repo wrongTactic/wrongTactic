@@ -1,8 +1,8 @@
 ### Hello world! 👋
 
-I'm Fabio Tatti and I'm a Data Science and Engineering Graduate at Politecnico di Torino. I will graduate in March 2023 with a Master Thesis about Facial Emotion Recognition (FER). My studies did focus on Machine Learning, Deep Learning and Big Data Analysis. 
+I'm Fabio Tatti and I'm a Data Scientist working for SACERTIS in the field of predictive maintenance in Turin.
 
-🔭 I’m **currently working on** my Master's Thesis project called "An emotional coherence analysis with a multimodal Neural Network - A study based on a novel affective dataset of facial expressions ". After the creation of a Dataset for FER by collecting facial RGB-D data in Rio de Janeiro (BR) I am focusing on the multimodal Neural Network able to classify them.
+🔭 I’m **graduated** with my Master's Thesis project called "An emotional coherence analysis with a multimodal Neural Network - A study based on a novel affective dataset of facial expressions ". After the creation of a Dataset for FER by collecting facial RGB-D data in Rio de Janeiro (BR) I am focusing on the multimodal Neural Network able to classify them.
 
 🎓**Education**
 - Master of Science "Data Science and Engineering" @ `Politecnico di Torino`
